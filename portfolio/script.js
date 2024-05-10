@@ -16,3 +16,5 @@ git merge master/{name_of_branch}
 
 git config --global user.name "Telvin"
 git config --global user.email "telvinngichukii@gmail.com"
+
+git pull origin master
